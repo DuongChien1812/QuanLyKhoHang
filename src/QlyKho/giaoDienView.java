@@ -1,4 +1,4 @@
-package QlyKho;
+﻿package QlyKho;
 
 import java.awt.BorderLayout;
 import java.awt.CardLayout;
@@ -702,7 +702,7 @@ public class giaoDienView extends JFrame {
 		btnExport.setBounds(10, 400, 255, 61);
 		FlowChart.add(btnExport);
 		
-		JLabel lblNewLabel = new JLabel("  Design by TeamThirdteen");
+		JLabel lblNewLabel = new JLabel("  Design by Team 3");
 		lblNewLabel.setFont(new Font("Times New Roman", Font.PLAIN, 13));
 		lblNewLabel.setForeground(new Color(255, 255, 255));
 		lblNewLabel.setBounds(60, 515, 174, 29);
